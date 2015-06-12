@@ -1,9 +1,8 @@
 node_modules
-bower_components
-test/temp
-demo
+public
+.tmp
+.sass-cache
 .idea
-.DS_Store
-release.txt
-fixtures/bower.json
-fixtures/package.json
+client/bower_components
+dist
+/server/config/local.env.js
